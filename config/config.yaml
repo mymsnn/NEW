@@ -1,5 +1,5 @@
 app:
-  version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
+  version_check_url: "https://raw.githubusercontent.com/mymsnn/NEW/refs/heads/master/version"
   show_version_update: true # 控制显示版本更新提示，如果 false，则不接受新版本提示
 
 crawler:
@@ -47,12 +47,12 @@ notification:
   # 请务必妥善保管好 webhooks，不要公开
   # 如果你以 fork 的方式将本项目部署在 GitHub 上，请勿在此填写任何 webhooks，而是将 webhooks 填入 GitHub Secret
   # 不然轻则手机上收到奇怪的广告推送，重则存在更严重的安全隐患
-  webhooks:
+    webhooks: "GT_NEW"
     feishu_url: "" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
     wework_url: "" # 企业微信机器人的 webhook URL
-    telegram_bot_token: "" # Telegram Bot Token
-    telegram_chat_id: "" # Telegram Chat ID
+    telegram_bot_token: "6747264574:AAF7In5E36vZIxCo009vQodPCWb5dc0NHRw" # Telegram Bot Token
+    telegram_chat_id: "newbaidu_bot" # Telegram Chat ID
     email_from: "" # 发件人邮箱地址
     email_password: "" # 发件人邮箱密码或授权码
     email_to: "" # 收件人邮箱地址，多个收件人用逗号分隔
