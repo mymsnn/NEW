@@ -1,31 +1,18 @@
 A股
-上证
-深证
 +涨跌
++预测
 
 DeepSeek
 
-微软
-Microsoft
 github
 
-谷歌
 google
-gemini
-deepmind
 
 chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
-ipad
-mac
-ios
 
 ai
-!gai
-人工智能
+
+jianghaiyina.com
++更新
