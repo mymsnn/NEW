@@ -9,15 +9,23 @@ DeepSeek
 Microsoft
 github
 
+谷歌
 google
+gemini
+deepmind
 
+chatgpt
+openai
+sora
 
-百度
-热榜
+claude
+Anthropic
 
-微博
-热榜
+iphone
+ipad
+mac
+ios
 
-头条
-热榜
-
+ai
+!gai
+人工智能
